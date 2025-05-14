@@ -23,7 +23,6 @@ Both: Feature obstacles – objects or monsters.<br/>
 <br/><br/>
 
 <b>Switchbound</b><br/>
-<b>Switchbound</b><br/>
 <br/><br/>
 
 <b>Story</b><br/><br/>
@@ -57,6 +56,7 @@ SPACE – Jump<br/>
 SHIFT – Switch between Light/Shadow form<br/>
 Mouse – Aim (for ranged abilities or interaction)<br/>
 <br/><br/>
+
 
 <b>Attributions:</b><br/>
 Menu Background Image: AI-generated with ChatGPT assistance<br/>
